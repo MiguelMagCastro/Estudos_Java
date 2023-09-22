@@ -1,5 +1,5 @@
-|  Comando | Funcionalidade                                  |
-| ------- | ------- | --------------------------------------------- |
+|  Comando | Funcionalidade        |
+| ------- | --------------------------------------------- |
 | `System.out.println( );` | Escreve no console colocando uma quebra de linha após o escrito |
 | `System.out.print( );` | Escreve no console |
 | `System.out.printf(“%.2f%n”, x);` | Imprime double até a casa após a vírgula indicada pelo número dentro do parênteses |
