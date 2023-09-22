@@ -18,7 +18,7 @@ public class Tempo_Namoro {
 		System.out.println("Voces namoram a quantos meses?");
 		tempo = sc.nextInt();
 		if(tempo <=0) {
-			System.out.println("Os meses não podem ser menor ou igual a zero durrrrr");
+			System.out.println("Os meses não podem ser menor ou igual a zero!!!");
 		}
 		}while(tempo <= 0);
 			
