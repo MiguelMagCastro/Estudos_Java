@@ -6,13 +6,13 @@ Este repositório contém os meus estudos e projetos relacionados à linguagem d
 
 O repositório está organizado da seguinte forma:
 
-- `/projetos`: Esta pasta contém projetos mais extensos e aplicativos que desenvolvi em Java.
+- `/Projetos`: Esta pasta contém projetos mais extensos e aplicativos que desenvolvi em Java.
 
-- `/exemplos`: Aqui você encontrará pequenos exemplos e snippets de código que exploram conceitos específicos da linguagem Java.
+- `/Exemplos`: Aqui você encontrará pequenos exemplos e snippets de código que exploram conceitos específicos da linguagem Java.
 
 - `/anotacoes`: Esta pasta contém arquivos de anotações de conceitos importantes da linguagem.
 
-- `/recursos`: Qualquer recurso adicional, como diagramas, imagens ou arquivos de configuração, estará nesta pasta.
+- `/Recursos`: Qualquer recurso adicional, como diagramas, imagens ou arquivos de configuração, estará nesta pasta.
 
 ## :notebook: Tópicos de Estudo
 
