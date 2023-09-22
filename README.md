@@ -38,3 +38,6 @@ Além deste repositório, você pode encontrar recursos úteis para aprender Jav
 - Tutoriais e cursos online, como [Codecademy](https://www.codecademy.com/learn/learn-java) e [Coursera](https://www.coursera.org/courses?query=java)
 
 - Comunidades online, como o [Stack Overflow](https://stackoverflow.com/questions/tagged/java)
+
+## GitHub
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/104601913?v=4" width=115><br><sub>Miguel Magalhães <br> Freire de Castro</sub>](https://github.com/MiguelMagCastro)
