@@ -1,4 +1,4 @@
-| Sintaxe | Comando | Funcionalidade                                  |
+|  Comando | Funcionalidade                                  |
 | ------- | ------- | --------------------------------------------- |
 | `System.out.println( );` | Escreve no console colocando uma quebra de linha após o escrito |
 | `System.out.print( );` | Escreve no console |
