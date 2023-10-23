@@ -8,7 +8,7 @@ O repositório está organizado da seguinte forma:
 
 - `/Projetos`: Esta pasta contém projetos mais extensos e aplicativos que desenvolvi em Java.
 
-- `/Exemplos`: Aqui você encontrará pequenos exemplos e snippets de código que exploram conceitos específicos da linguagem Java.
+- `/Exemplos`: Aqui você encontrará pequenos exemplos de código que exploram conceitos específicos da linguagem Java.
 
 - `/Anotacoes`: Esta pasta contém arquivos de anotações de conceitos importantes da linguagem.
 
